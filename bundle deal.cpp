@@ -11,7 +11,6 @@
 // Make sure to add any header files as needed. 
 //     This program is NOT autograded
 //
-// Name: Christina Kramer
 // Date: 4/26/2022
 //
 
